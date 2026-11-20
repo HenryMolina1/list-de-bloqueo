@@ -6,3 +6,5 @@
 ||sophisticatedindignant.com^
 ||defensetraverse.com^
 ||pierremarkeraffliction.com^
+||jkanime.net/assets/js/advertisement2.js
+||jkanime.net/ads.js
